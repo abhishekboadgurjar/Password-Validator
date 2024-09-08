@@ -1,0 +1,15 @@
+.app {
+  font-family: Arial, sans-serif;
+  text-align: center; 
+  padding: 20px;
+}
+
+.app h1 {
+  margin-bottom: 20px;
+}
+.header{
+padding: 40px;
+}
+.footer{
+  margin: 100px;
+}
