@@ -64,6 +64,7 @@ This will start the development server, and the application will be running at `
 Check out the live demo of the Password Validator [here](https://password-validator-in.netlify.app/).
 
 ## Screenshots
+
 ![Screenshot 2024-09-08 220824](https://github.com/user-attachments/assets/4cf45462-062f-447c-89e7-bc12d458bd4a)
 
 ## Conclusion
