@@ -50,7 +50,7 @@ The project is structured as follows:
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/abhishekboadgurjar/password-validator.git
+git clone https://github.com/abhishekgurjarin/password-validator.git
 cd password-validator
 npm install
 npm start
@@ -77,4 +77,4 @@ This Password Validator is a great project to get hands-on experience with form 
 
 ### Author
 
-**Abhishek Gurjar** is a web developer passionate about building interactive and responsive web applications. You can follow his work on [GitHub](https://github.com/abhishekboadgurjar).
+**Abhishek Gurjar** is a web developer passionate about building interactive and responsive web applications. You can follow his work on [GitHub](https://github.com/abhishekgurjarin).
